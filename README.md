@@ -1,0 +1,2 @@
+本项目用于学习python flask框架网站搭建
+基本的python编程知识学习，搭建家庭linux服务器站点
